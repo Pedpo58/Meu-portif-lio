@@ -519,9 +519,9 @@ a:hover {
         margin: 80px auto; /* Ajusta a margem */
     }
     .Projetos-texto {
-        font-size: 20px; /* Ajusta o tamanho da fonte */
+        font-size: 25px; /* Ajusta o tamanho da fonte */
         text-align: left;
-        font-weight: 600;
+        font-weight: 700;
         color: var(--cor-fundo-darkmode);
         width: 80%; /* Garante que o texto ocupe a largura total */
         margin-left: 15px; /* Ajusta a margem esquerda */
@@ -770,8 +770,8 @@ body.dark-mode .contato-item {
     margin-left: 0;
   }
   .apresentacao-foto {
-    width: 160px;
-    height: 160px;
+    width: 250px;
+    height: 250px;
     margin: 0 auto;
   }
 }
